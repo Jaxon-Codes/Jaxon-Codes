@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and working with Database Systems!
 - 🌱 I’m currently learning Database Skills with mySQL looking to strengthen my knowledge of the subject. 
 - 💞️ I’m looking to collaborate on any project or design that peaks my interest. 
-- 📫 How to reach me ... Email-jmja@uky.edu 
+- 📫 How to reach me ... Email-jmja263@uky.edu 
 
 <!---
 Jaxon-Codes/Jaxon-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
